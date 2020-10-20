@@ -1,0 +1,9 @@
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: None
+INFO     translator memory limit: None
+INFO     translator command line string: /opt/conda/bin/python /fast_downward/builds/release/bin/translate/translate.py HW1domain.pddl HW1problem.pddl --sas-file output.sas
+Parsing...
+translate exit code: 30
+
+Driver aborting after translate
